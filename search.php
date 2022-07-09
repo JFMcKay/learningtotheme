@@ -1,0 +1,1 @@
+<!-- template that displays search results -->

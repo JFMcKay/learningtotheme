@@ -1,0 +1,1 @@
+This folder is used to to create php classes to overwrite wordpress functionality.
